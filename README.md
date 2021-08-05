@@ -63,8 +63,8 @@ This space reserved for a screenshot of my final solution
 
 In my development. I was able to get fairly far on my own, with a couple of Notable Exceptions.  The following screenshots show where I was stuck. 
 
-![](.images/progress-screen.JPG) 
-![](.images/progress-screen-mobile)
+![](images/progress-screen.JPG) 
+![](images/progress-screen-mobile)
 
 Here are some Major deviations from the original spec that I noticed. 
 1) Getting elements to overlap appropriately with the input box. Maybe floating elements? Maybe absolutely positioning elements? That would work, but not smoothly. 
